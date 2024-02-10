@@ -1,1 +1,0 @@
-Adventurer's passing through [[Grey Hawk]] often need equipment, and they know to go to Tam's Forge.  [[Tam Thunderhand]] is a skilled blacksmith and former adventurer who settled in the town a few decades ago, and has made a name for himself as a solid smith of standard weapons and armor as well as some magical items.  
