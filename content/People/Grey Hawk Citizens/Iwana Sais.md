@@ -1,0 +1,3 @@
+Iwana lives with her husband Simon Sais at the eastern edge of [[Grey Hawk]].  She was born and raised in the town and met Simon a few years ago when he moved in for logging.  She has been troubled by banging on her door the last few nights.  
+
+![[Pasted image 20240208013303.png]]

@@ -1,0 +1,3 @@
+The current leader of [[Grey Hawk]], Fona Goldcrest is a human noble who oversees the town, but rarely mingles with the people of the town, preferring to spend her time riding, reading, and rubbing shoulders with other nobles staying at the [[Crescent's Rest]], which happens to be owned by her sister.  
+
+![[Pasted image 20240209130739.png]]

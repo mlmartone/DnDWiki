@@ -1,0 +1,1 @@
+An adventuring party containing [[Alduin Silversmite]], [[Gabriella Starsyx]], [[Void]], and [[Hubert Mugwort]].  They seek the Astral Orb, an artifact stolen from Candlekeep.  

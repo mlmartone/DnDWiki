@@ -1,0 +1,3 @@
+Reka runs a small shop in the [[Grey Hawk]] market called Bobs and Bits, but lately she's fallen on hard times since her husband passed away a few years ago. She's a kindly old woman who just can't seem to catch a break and owes some money to some shady figures that she used to make ends meet.
+
+![[Pasted image 20240208010855.png]]

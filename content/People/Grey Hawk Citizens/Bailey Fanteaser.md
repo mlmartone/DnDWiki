@@ -1,0 +1,3 @@
+Bailey would lose his head if it wasn't attached, he is constantly looking for something he misplaced, a running joke among the other townsfolk. Naturally Bailey is one of the clerks who oversees day-to-day accounting for the [[Grey Hawk]]'s limited government and acts as a personal assistant to [[Reeve Fona Goldcrest]], who is constantly exasperated with his foolishness.
+
+![[Pasted image 20240208011548.png]]

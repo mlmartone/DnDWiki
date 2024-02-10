@@ -1,0 +1,1 @@
+The upscale restaurant and inn situated across from the [[Reeve's Manor]] in [[Grey Hawk]].  Frequented by the more well-to-do residents and catering to traveling nobles and merchants along [[The Wanderer's Path]], this inn does not take kindly to rabble rousing like [[The Bursting Barrel]] does.  

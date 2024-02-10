@@ -1,0 +1,1 @@
+[[Nora Gremble]]'s horse.  He goes where he wants and is majestic as fuck about it.  

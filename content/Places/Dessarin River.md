@@ -1,0 +1,1 @@
+The river that runs from the Star Mounts in [[The High Forest]] through [[Grey Hawk]] and eventually empties into the sea near Waterdeep.  

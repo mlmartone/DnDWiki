@@ -1,0 +1,3 @@
+Simon lives with his wife [[Iwana Sais]] on the east edge of [[Grey Hawk]].  He is a logger by trade and moved to the town a couple years ago.  He's been troubled by a pounding on his door late at night for the last few nights.  
+
+![[Pasted image 20240208012722.png]]

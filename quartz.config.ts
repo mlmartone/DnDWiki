@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Thursday Night D&D Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -16,9 +16,9 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Spectral SC",
+        body: "Lora",
+        code: "Open Sans",
       },
       colors: {
         lightMode: {
