@@ -1,3 +1,2 @@
 Honey is a half-elf who spent her early childhood in [[The High Forest]] with her parents before they separated, now she lives with her human father. She is an aspiring performer and she can't wait to get her act together and save up enough money to be able to travel to one of the big cities on the Sword Coast to try her hand at showbusiness. For now she performs on her flute in [[The Bursting Barrel]] accompanied by her dancing chipmunk, [[Shrimp]].  
-
 ![[Pasted image 20240208011034.png]]
